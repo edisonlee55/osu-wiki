@@ -1,0 +1,6 @@
+files:
+  - source: /wiki/**/en.md
+    translation: /%original_path%//%locale%.md
+    languages_mapping:
+      locale:
+        zh-TW: zh-tw
